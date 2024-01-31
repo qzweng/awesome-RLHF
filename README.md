@@ -78,6 +78,16 @@ format:
 ```
 
 ### 2023
+- [Better, Cheaper, Faster LLM Alignment with KTO](https://github.com/ContextualAI/HALOs/blob/main/assets/report.pdf)
+  - Kawin Ethayarajh & Winnie Xu, Douwe Kiela
+  - Keyword: RLHF without reward modeling, DPO-related
+  - [Blog](https://contextual.ai/better-cheaper-faster-llm-alignment-with-kto/), Code: [Official](https://github.com/ContextualAI/HALOs)
+
+- [A General Theoretical Paradigm to Understand Learning from Human Preferences]()
+  - Mohammad Gheshlaghi Azar, Mark Rowland, Bilal Piot, Daniel Guo, Daniele Calandriello, Michal Valko, Rémi Munos
+  - Keyword: RLHF without reward modeling, DPO-related
+  - Code: [Reference](https://github.com/eric-mitchell/direct-preference-optimization)
+
 - [Adversarial Preference Optimization](https://arxiv.org/abs/2311.08045)
   - Pengyu Cheng, Yifan Yang, Jian Li, Yong Dai, Nan Du
   - Keyword: RLHF, GAN, Adversarial Games
